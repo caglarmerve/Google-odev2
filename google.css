@@ -1,0 +1,63 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.container{
+background-color: rgb(236, 233, 230);
+height: 100px;
+}
+.main{
+    margin: 100px auto 0 500px;
+}
+h1{
+    margin: 0 auto 0 500px;
+}
+.text{
+    margin: 0 500px 0 500px;
+    clear: both;
+    width: 400px;
+    box-shadow: 10px 5px 5px gray;
+}
+.Search1{
+    margin: 0 0 0 100px;
+    display: flex;
+    
+}
+.text1{
+    margin:0 0 0 430px ;
+    width: 200px;
+    box-shadow: 10px 5px 5px gray;
+}
+.text2{
+   margin: 0 500px 0 0; 
+   width: 200px;
+   box-shadow: 10px 5px 5px gray;
+}
+.content{
+    width: auto;
+   margin: 0 auto o auto;
+   display: flex;
+   height: 240px;      
+}
+.card{
+    width:26.82% ;
+    padding: 3%;
+    margin-right: 0.5%;
+    margin-top: 30px;
+}
+.bg-color{
+    background-color: turquoise;
+}
+.bg-color1{
+background-color: rgb(60, 180, 168);
+}
+.bg-color2{
+background-color: rgb(52, 146, 137);
+}
+.text3{
+    margin: 0 500px 0 0; 
+    width: 100px;
+}
+
+
+
